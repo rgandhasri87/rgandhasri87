@@ -1,7 +1,7 @@
 ### Hello! I'm Rutvik, a freshman studying CS at UC Irvine.
 
-My first exposure to computer science beyond programming itself was the *Wait, but Why?"* article, about the superintelligent AIs potentially arriving soon
-™️. (be sure to [read](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) it later!) While I wasn't completely sold, my eyes were opened to the sheer number of things computers do in our world, and at the same time, how much they couldn't do. That sparked my interest in computer science, and my "ideal", so to speak, of using the power of computing to keep accomplishing new things.
+My first exposure to computer science, beyond programming alone, was the *Wait, but Why?"* article about the superintelligent AIs potentially arriving soon
+&#9658. (be sure to [read](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) it later!) While I wasn't completely sold, reading it sparked my interest in computer science.
 
 Later on, I became interested in design thanks to my high school's web design class. Check out my design portfolio [here](https://bit.ly/GandhasriR-portfolio)! Now that I've gained some experience in designing things, I'm working on my actual development/implementation skills
 
