@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! I'm Rutvik, a freshman studying CS at UC Irvine.
+
+My first exposure to computer science beyond programming itself was the *Wait, but Why?"* article, about the superintelligent AIs potentially arriving soon
+™️. (be sure to [read](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) it later!) While I wasn't completely sold, my eyes were opened to the sheer number of things computers do in our world, and at the same time, how much they couldn't do. That sparked my interest in computer science, and my "ideal", so to speak, of using the power of computing to keep accomplishing new things.
+
+Later on, I became interested in design thanks to my high school's web design class. Check out my design portfolio [here](https://bit.ly/GandhasriR-portfolio)! Now that I've gained some experience in designing things, I'm working on my actual development/implementation skills
+
+I'm also interested in linguistics, especially where it intersects with computer science. Although I have much to learn in both fields, I am particularly curious to learn more about how language influences thought, similarities between human languages and programming languages, and natural language processing. For anyone who can read the IPA (or wants to give it a shot), my name is pronounced **/ˈɹʊˌtvɪk/**.
 
 <!--
 **rgandhasri87/rgandhasri87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
