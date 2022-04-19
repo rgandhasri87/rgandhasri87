@@ -2,9 +2,9 @@
 
 My first exposure to computer science, beyond programming alone, was the *Wait, but Why?"* article about the superintelligent AIs potentially arriving soon™. (Be sure to [read](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) it later!) While I wasn't completely sold, reading it sparked my interest in computer science.
 
-Later on, I became interested in design thanks to my high school's web design class. Check out my design portfolio [here](https://bit.ly/GandhasriR-portfolio)! Now that I've gained some experience in designing things, I'm working on my actual development/implementation skills
+Later on, I became interested in design thanks to my high school's web design class. Check out my design portfolio [here](https://bit.ly/GandhasriR-portfolio)! Now that I've gained some experience in designing things, I'm working on my actual development/implementation skills.
 
-I'm also interested in linguistics, especially where it intersects with computer science. Although I have much to learn in both fields, I am particularly curious to learn more about how language influences thought, similarities between human languages and programming languages, and natural language processing. For anyone who can read the IPA (or wants to give it a shot), my name is pronounced **/ˈɹʊˌtvɪk/**.
+I'm also interested in linguistics, especially where it intersects with computer science. Although I have much to learn in both fields, I am particularly curious to learn more about how language influences thought, similarities between human languages and programming languages, and natural language processing. To that end, I am pursuing a minor in lingustics (for now.) For anyone who can read the IPA (or wants to give it a shot), my name is pronounced **/ˈɹʊˌtvɪk/**.
 
 <!--
 **rgandhasri87/rgandhasri87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
