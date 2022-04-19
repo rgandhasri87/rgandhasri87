@@ -1,4 +1,4 @@
-### Hello! I'm Rutvik, a freshman studying CS at UC Irvine.
+## Hello! I'm Rutvik, a freshman studying CS at UC Irvine.
 
 My first exposure to computer science, beyond programming alone, was the *Wait, but Why?"* article about the superintelligent AIs potentially arriving soon™. (Be sure to [read](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) it later!) While I wasn't completely sold, reading it sparked my interest in computer science.
 
