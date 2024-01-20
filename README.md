@@ -6,7 +6,7 @@ My first exposure to computer science, beyond programming alone, was the *Wait, 
 
 Later on, I became interested in design thanks to my high school's web design class. Check out my design portfolio [here](https://bit.ly/GandhasriR-portfolio)! Now that I've gained some experience in designing things, I'm working on my actual development/implementation skills.
 
-I'm also interested in linguistics, especially where it intersects with computer science. Although I have much to learn in both fields, I am particularly curious to learn more about how language influences thought, similarities between human languages and programming languages, and natural language processing. To that end, I am pursuing a minor in lingustics (for now.)
+[This is severely out of date and will be fixed in the near future.]
 
 <!--
 **rgandhasri87/rgandhasri87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
